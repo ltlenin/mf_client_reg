@@ -1,0 +1,30 @@
+.Dropzone {
+  /* height: 150px;
+  width: 150px; */
+  height: 60px;
+  /* width: 300px; */
+  background-color: #fff;
+  border: 2px dashed rgb(187, 186, 186);
+  /* border-radius: 57%;*/
+  display: flex; 
+  align-items: center;  
+  justify-content: center;
+  flex-direction: column;
+  font-size: 14px;
+  /* position: relative;
+  left:66px; */
+}
+
+.Highlight {
+  background-color: rgb(188, 185, 236);
+}
+
+.Icon {
+  opacity: 0.3;
+  height: 64px;
+  width: 64px;
+}
+
+.FileInput {
+  display: none;
+}
